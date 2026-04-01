@@ -1,4 +1,5 @@
 # Oh, That's Why!
+### Apple Swift Student Challenge 2026 Winner App
 
 ![Swift Student Challenge](https://img.shields.io/badge/Swift_Student_Challenge-2026-orange)
 ![Platform](https://img.shields.io/badge/Platform-iPadOS_18-blue)
@@ -6,8 +7,7 @@
 
 ---
 
-Apple Swift Student Challenge 2026 Winner App 
-Physics has always been taught through diagrams and textbooks. but forces 
+physics has always been taught through diagrams and textbooks. but forces 
 aren't meant to be read about — they're meant to be felt. oh, that's why! 
 bridges that gap by using CoreMotion, SpriteKit, and the sensors already 
 inside your device to turn abstract concepts into something you can 
